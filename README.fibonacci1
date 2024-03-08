@@ -1,0 +1,14 @@
+# P.S this is the first version of fibonacci sequance programm 
+
+#$WHAT IS THE FIBONACCI SEQUANCE?
+#The Fibonacci sequence is a famous math-
+#ematical pattern credited to Italian math-
+#ematician Fibonacci in the 13th century
+#The sequence begins with 0 and 1, and the next num-
+#ber is always the sum of the previous two numbers.
+#The sequence continues forever:
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987 . . .
+
+# What this programm does?
+#This program lets you calculate Fibonacci sequence up to 
+10000
